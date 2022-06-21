@@ -1,4 +1,4 @@
-name: Deploy OpenSearch and OpenSearch Dashboards
+name: Dev - Deploy OS and OSD
 
 on:
     push:
